@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import viteImagemin from "vite-plugin-imagemin";
 
 export default defineConfig({
-  base: '/fcs.com',
+   base: '/fortune.com/',
   plugins: [
     react(),
     viteImagemin({
